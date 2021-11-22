@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.049,=C:\Users\amu\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.769,=C:\Users\amu\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.521,E:\faname\StringFilter\test\MSF.dproj=C:\Users\amu\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.852,=E:\faname\StringFilter\test\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.267,E:\faname\StringFilter\test\uMSF.pas=E:\faname\StringFilter\test\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.881,=C:\Users\amu\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>

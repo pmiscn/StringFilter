@@ -1,0 +1,20 @@
+
+本程序主要功能是实现文本文件过滤，能够从文本文件提取需要的数据，或者格式化文本文件，是从我爬虫程序里面提取的，通过配置，能够实现绝大部分的文本过滤处理。
+
+配置文件是json格式，说明请看目录下conf.js的注释
+
+
+msf.exe 是命令行程序
+支持文本输入命令和参数输入，2者的格式一致。命令行参数为
+
+filter conf=conf.js from=src.txt to=aa.txt print
+
+filter 		是主命令，对文本进行过滤，可以省略。
+conf=conf.js 	配置文件路径，
+from=src.txt	源文件的路径，
+to=aa.txt		输出结果文件路径
+print		控制台打印输出结果，如果to参数是空，则默认打印，除非存在 print=false参数。
+以上文件路径相对目录绝对目录都可以
+
+TestStringFilter.exe
+一个带界面的测试程序

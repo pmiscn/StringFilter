@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.836,C:\Users\Administrator\Documents\Embarcadero\Studio\项目\Project1.dproj=E:\faname\MuStringFilterTest\test\Project1.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.740,C:\Users\Administrator\Documents\Embarcadero\Studio\项目\Unit1.dfm=E:\faname\MuStringFilterTest\test\Unit1.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.740,C:\Users\Administrator\Documents\Embarcadero\Studio\项目\Unit1.pas=E:\faname\MuStringFilterTest\test\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.188,=C:\Users\Administrator\Documents\Embarcadero\Studio\项目\Unit1.pas</Transaction>
+    <Transaction>2020-09-05 22:50:16.386,E:\faname\MuStringFilterTest\test\TestStringFilter.dproj=E:\faname\MuStringFilterTest\test\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
