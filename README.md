@@ -22,6 +22,7 @@ print		控制台打印输出结果，如果to参数是空，则默认打印，�
 TestStringFilter.exe
 一个带界面的测试程序
 
+需要qdac的qjson。地址 http://www.qdac.cc/
 
 配置说明如下：
 //本配置是兼容的json格式，兼容常见的json格式。
